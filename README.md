@@ -20,10 +20,6 @@ Componentes do sistema:
 
 2.2 Controle de estoque
 
-PBL:
-#001 - CRUD do admin
-#002 - CRUD do cliente
-#003 - CRUD do endereço do cliente
-#004 - CRUD dos telefones do cliente
-#005 - CRUD dos emails do cliente
-#006 - CRUD dos equipamentos
+3. Gerenciamento do site principal
+3.1 Adicionar categorias e conteúdo para página
+3.2 Adicionar links no menu superior

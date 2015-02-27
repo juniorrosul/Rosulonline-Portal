@@ -1,0 +1,14 @@
+Tela de Admin
+
+Ator Principal:
+	- Administrador
+O que?
+	- Tela inicial do administrador
+	- Deve trazer as últimas OSs
+	- Ficar disponível no topo as principais opçoes do admin
+	
+Como?
+
+Regras de Negócio
+	
+Pós Condições

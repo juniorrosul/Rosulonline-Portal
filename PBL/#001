@@ -1,0 +1,13 @@
+#001 - Tela inicial
+
+Ator Principal:
+	- Convidado
+O que?
+	- Tela inicial do sistema
+	- Trazer últimas postagens
+	- na parte superior de trazer o link para webmail
+Como?
+	- Através do link www.rosulonline.com.br
+
+Regras de Negócio
+Pós Condições

@@ -1,0 +1,17 @@
+Acessar Sistema
+
+Ator Principal:
+	- Administrador
+O que?
+	- Usuário deve acessar o sistema através de um usuário/email e senha
+	
+Como?
+	- Através do link www.rosulonline.com.br/signin
+	- Deve preencher os campos:
+		usuário/email
+		senha
+
+Regras de Negócio
+	- usuario/email e senha devem ser válidos no sistema
+Pós Condições
+	- usuário deve ser redirecionado para /admin

@@ -1,0 +1,14 @@
+#002 - Tela login
+
+Ator Principal:
+	- Convidado
+O que?
+	- Tela para login no sistema
+	- Deve conter os campos:
+		usuário/email
+		senha
+Como?
+	- Através do link www.rosulonline.com.br/signin
+
+Regras de Negócio
+Pós Condições
